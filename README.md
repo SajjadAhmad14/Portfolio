@@ -1,4 +1,4 @@
-# Restaurant Site
+# Portfolio Site
 
 ![screenshot](./img/portfolio.png)
 
