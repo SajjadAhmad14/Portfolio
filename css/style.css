@@ -420,6 +420,11 @@ h4.media-heading {
   position: relative;
 }
 
+.about-head {
+  font-size: 18pt;
+  font-weight: bold;
+}
+
 #about h2,
 #about h5 {
   color: #fff;
@@ -857,6 +862,11 @@ ul.metas li a {
 
 .contact-detail:hover i.fa {
   background-color: #333333
+}
+
+.contact-detail h4 {
+  font-size: 14pt;
+  font-weight:bold;
 }
 
 form#contact-form {
