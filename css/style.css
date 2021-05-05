@@ -190,6 +190,8 @@ a:focus {
 .content-heading p.lead {
   margin-bottom: 30px;
   color: #FFF;
+  font-size: 20px;
+  font-weight: bold;
 }
 
 a.goto-btn {
@@ -202,7 +204,7 @@ a.goto-btn {
 .social-links-top {
   margin-bottom: 50px;
   font-size: 30px;
-  color: #808080;
+  color: #fff;
 }
 
 a.goto-btn:hover {
@@ -387,11 +389,16 @@ a.goto-btn {
 h4.media-heading {
   margin-top: 0;
   margin-bottom: 5px;
-  font-size: 16px;
-  font-weight: 400;
+  font-size: 20px;
+  font-weight: bold;
   text-transform: uppercase;
   color: #333;
   line-height: 20px;
+}
+
+.media-body {
+  font-weight: bold;
+  font-size: 18px;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
