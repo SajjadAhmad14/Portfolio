@@ -389,7 +389,7 @@ a.goto-btn {
 h4.media-heading {
   margin-top: 0;
   margin-bottom: 5px;
-  font-size: 20px;
+  font-size: 20pt;
   font-weight: bold;
   text-transform: uppercase;
   color: #333;
@@ -398,7 +398,7 @@ h4.media-heading {
 
 .media-body {
   font-weight: bold;
-  font-size: 18px;
+  font-size: 18pt;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
