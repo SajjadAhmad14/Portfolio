@@ -310,6 +310,8 @@ a.goto-btn {
 .section-header h2 {
   text-transform: uppercase;
   color: #333;
+  font-size: 18pt;
+  font-weight: bold;
 }
 
 .section-header h5 {
