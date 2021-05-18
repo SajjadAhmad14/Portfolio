@@ -91,9 +91,9 @@
     text-align: center;
   }
 
-  .box .hover-text i.fa {
+  /* .box .hover-text i.fa {
     top: 0%;
-  }
+  } */
 }
 
 @media (max-width: 768px) {
