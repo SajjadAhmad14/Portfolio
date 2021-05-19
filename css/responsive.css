@@ -90,10 +90,6 @@
   .content-heading.text-left {
     text-align: center;
   }
-
-  /* .box .hover-text i.fa {
-    top: 0%;
-  } */
 }
 
 @media (max-width: 768px) {
@@ -113,16 +109,16 @@
   .carousel-indicators {
     bottom: 30px;
   }
+
+  h4.media-heading {
+    margin-top: 20px;
+  }
 }
 
 @media (max-width: 603px) {
   .slider a.goto-btn {
     display: none;
   }
-
-  /* .ipad-wrapper .app-wrap {
-    left: 16%;
-  } */
 
   #footer .pull-left,
   #footer .pull-right {
@@ -144,21 +140,10 @@
     font-size: 34px;
   }
 
-  /* #home.slider h1 {
-    font-size: 26px;
-  } */
-
   p.lead {
     display: none;
   }
 
-  /* .slider .carousel-indicators {
-    bottom: 0px;
-  } */
-
-  /* .ipad-wrapper .app-wrap {
-    left: 3%;
-  } */
 }
 
 @media (max-width: 360px) {
@@ -189,18 +174,6 @@
     left: 20%;
   }
 
-  /* .post-meta {
-    min-height: 50px;
-  } */
-
-  /* .price.panel-default {
-    margin: 20px;
-  } */
-
-  /* .price.featured.panel-default {
-    margin: 20px;
-  } */
-
   h1 {
     font-size: 26px
   }
@@ -208,14 +181,6 @@
   #home.slider {
     display: none;
   }
-
-  /* #intro.slider {
-    margin-top: 70px !important
-  } */
-
-  /* .ipad-wrapper .app-wrap {
-    display: none;
-  } */
 
   a.goto-btn {
     margin-right: auto;
