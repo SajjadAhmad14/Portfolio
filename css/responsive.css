@@ -70,25 +70,17 @@
   .navbar-nav .open .dropdown-menu .dropdown-header {
     padding: 10px 15px 10px 25px;
   }
-/* 
-  .price.panel-default {
-    margin: 40px;
-  }
-
-  .price.featured.panel-default {
-    margin: 40px;
-  } */
 
   .content-heading {
     margin-top: 80px;
   }
 
-  /* .ipad-wrapper .app-wrap {
-    left: 22%;
-  } */
-
   .content-heading.text-left {
     text-align: center;
+  }
+
+  h4.media-heading {
+    margin-top: 20px;
   }
 }
 
@@ -108,10 +100,6 @@
 
   .carousel-indicators {
     bottom: 30px;
-  }
-
-  h4.media-heading {
-    margin-top: 20px;
   }
 }
 
